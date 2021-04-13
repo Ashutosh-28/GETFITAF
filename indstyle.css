@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	
+}
+html{
+	background-image:url(images/805233.jpg);
+	
+	height: 90%;
+	width:  100%;
+	background-color:rgba(0,0,0,0); 
+	background-repeat: no-repeat;
+}
+h1{
+	position: absolute;
+	top: 50%;
+	bottom: 50px;
+	transform: translate(50px,50px);
+	color: lightgrey;
+	font-size: 45px;
+	font-family: 'Varela Round', sans-serif;
+	text-transform: uppercase;
+}
